@@ -3,7 +3,7 @@ name: CI
 on:
   push:
     branches:
-      - Python3  # Specify the branch where you want tests to run
+      - python3  # Specify the branch where you want tests to run
 
 jobs:
   build:
