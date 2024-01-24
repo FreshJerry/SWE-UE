@@ -1,4 +1,4 @@
-name: CI
+name: CI-py3
 
 on:
   push:
